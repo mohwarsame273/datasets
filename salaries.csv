@@ -1,0 +1,201 @@
+CustomerID,Name,Gender,Age,Expenditure_Score,Salary ($),Country,City,Province,Address,Credit_card_nr
+1,Robert Carter,Male,19,39,19500,United States,Springfield,MA,8 Grayhawk Court,4913130000000000
+2,Eric Reese,Male,21,81,19500,United States,San Francisco,CA,5872 Petterle Hill,4026840000000000
+3,Melissa Crawford,Female,20,6,20800,United States,Wichita,KS,71232 Rusk Street,4508430000000000
+4,Candice Phillips,Female,23,77,20800,United States,El Paso,TX,42 Wayridge Court,4175010000000000
+5,Tammy Rodriguez,Female,31,40,22100,United States,Fresno,CA,1 Waxwing Way,4405500000000000
+6,Carolyn Mahoney,Female,22,76,22100,United States,Dayton,OH,6 Melody Plaza,4405310000000000
+7,Stacey Estes,Female,35,6,23400,United States,Brockton,MA,10997 Blackbird Avenue,4844630000000000
+8,Pamela Gardner,Female,23,94,23400,United States,New York City,NY,7212 Sachs Lane,4917460000000000
+9,John Rice,Male,64,3,24700,United States,Bakersfield,CA,89899 Bluestem Terrace,4508510000000000
+10,Amanda Williams,Female,30,72,24700,United States,Vancouver,WA,4 Talisman Hill,4026020000000000
+11,Anthony Lewis,Male,67,14,24700,United States,Garden Grove,CA,61 Carey Lane,4026180000000000
+12,Maria Martinez,Female,35,99,24700,United States,Madison,WI,497 Melvin Street,4026570000000000
+13,Karen Ferrell,Female,58,15,26000,United States,Lexington,KY,2 West Center,4026980000000000
+14,Frances Cabrera,Female,24,77,26000,United States,Joliet,IL,3204 Huxley Court,4844270000000000
+15,Justin Mccarty,Male,37,13,26000,United States,Van Nuys,CA,108 Westridge Road,4026120000000000
+16,Benjamin Villanueva,Male,22,79,26000,United States,Staten Island,NY,96689 Scofield Way,4844300000000000
+17,Barbara Cohen,Female,35,35,27300,United States,Baltimore,MD,16961 Upham Trail,4405800000000000
+18,Brett Smith MD,Male,20,66,27300,United States,San Jose,CA,3908 Kipling Trail,4508710000000000
+19,Timothy Carrillo,Male,52,29,29900,United States,Washington,DC,1 Forest Dale Trail,4175000000000000
+20,Carolyn Gardner,Female,35,98,29900,United States,Baltimore,MD,57 Sullivan Parkway,4844510000000000
+21,Michael Frey,Male,35,35,31200,United States,Worcester,MA,45 Vidon Drive,4026310000000000
+22,David Stark,Male,25,73,31200,United States,Los Angeles,CA,9 Fairfield Way,4844190000000000
+23,Diana Anderson,Female,46,5,32500,United States,Albany,NY,25 Corscot Pass,4508770000000000
+24,Aaron Krause,Male,31,73,32500,United States,Rochester,NY,5 Barnett Hill,4917860000000000
+25,Madison Carlson,Female,54,14,36400,United States,Greeley,CO,2 Loftsgordon Way,4026540000000000
+26,Cory Martinez PhD,Male,29,82,36400,United States,Memphis,TN,917 La Follette Parkway,4405330000000000
+27,Elizabeth Mendez,Female,45,32,36400,United States,San Jose,CA,8 New Castle Lane,4917750000000000
+28,Victor Winters,Male,35,61,36400,United States,Sioux City,IA,1185 Westerfield Court,4405560000000000
+29,Tammy Petty,Female,40,31,37700,United States,Richmond,VA,4183 Surrey Pass,4508360000000000
+30,Patricia Smith,Female,23,87,37700,United States,Bowie,MD,233 Beilfuss Terrace,4917930000000000
+31,Angel Vasquez,Male,60,4,39000,United States,Honolulu,HI,26201 Gina Terrace,4844450000000000
+32,Karen Sullivan,Female,21,73,39000,United States,Atlanta,GA,5588 Coolidge Point,4508620000000000
+33,Jason Bradley,Male,53,4,42900,United States,Bronx,NY,2 Comanche Terrace,4405170000000000
+34,Douglas Bridges,Male,18,92,42900,United States,Pittsburgh,PA,57355 Pankratz Circle,4913430000000000
+35,Terri Robinson,Female,49,14,42900,United States,Jacksonville,FL,484 Schurz Pass,4405660000000000
+36,Jenna Flores,Female,21,81,42900,United States,Los Angeles,CA,64 Spenser Place,4913830000000000
+37,Jessica Espinoza,Female,42,17,44200,United States,San Antonio,TX,48164 Jay Point,4844050000000000
+38,Alexis Cobb,Female,30,73,44200,United States,Washington,DC,47 Hermina Plaza,4917350000000000
+39,Marissa Carter,Female,36,26,48100,United States,El Paso,TX,2 Summerview Court,4405260000000000
+40,Amy Robinson,Female,20,75,48100,United States,Lafayette,LA,4 Paget Park,4913650000000000
+41,Jessica Marshall,Female,65,35,49400,United States,Salt Lake City,UT,730 Bluejay Point,4508200000000000
+42,Edward Bowman,Male,24,92,49400,United States,Charlottesville,VA,47 Fuller Street,4913730000000000
+43,Justin Smith,Male,48,36,50700,United States,Long Beach,CA,8914 7th Center,4026960000000000
+44,Sandra Harrison,Female,31,61,50700,United States,Pensacola,FL,25 Sunbrook Park,4405310000000000
+45,Virginia Nguyen,Female,49,28,50700,United States,Tucson,AZ,649 Harper Terrace,4913750000000000
+46,Kelly Greene,Female,24,65,50700,United States,Cincinnati,OH,1 Iowa Crossing,4917400000000000
+47,Theresa Hall,Female,50,55,52000,United States,Knoxville,TN,8186 Melody Way,4913250000000000
+48,Kristy White,Female,27,47,52000,United States,Grand Junction,CO,820 Melrose Circle,4175000000000000
+49,Robin Perez,Female,29,42,52000,United States,Littleton,CO,24791 Eggendart Crossing,4508380000000000
+50,Courtney Nichols,Female,31,42,52000,United States,Brooklyn,NY,29537 Lyons Place,4175000000000000
+51,Teresa Powell,Female,49,52,54600,United States,Salt Lake City,UT,397 Lerdahl Pass,4917210000000000
+52,Matthew Clark,Male,33,60,54600,United States,San Francisco,CA,3 Harper Crossing,4175000000000000
+53,Tonya Brady,Female,31,54,55900,United States,Jackson,MS,269 Crownhardt Plaza,4913420000000000
+54,Mason Olson,Male,59,60,55900,United States,Dallas,TX,3096 Waywood Alley,4844560000000000
+55,Stephanie Orozco,Female,50,45,55900,United States,Jersey City,NJ,9 Maywood Pass,4026830000000000
+56,Travis Andrade,Male,47,41,55900,United States,Atlanta,GA,8411 East Court,4026200000000000
+57,Annette Davis,Female,51,50,57200,United States,Toledo,OH,89 Dovetail Street,4844870000000000
+58,Dr. Clinton Garrett,Male,69,46,57200,United States,Houston,TX,137 Meadow Ridge Center,4026160000000000
+59,Katie Jackson,Female,27,51,59800,United States,El Paso,TX,94 Green Court,4913590000000000
+60,Craig Benjamin,Male,53,46,59800,United States,Austin,TX,791 Forest Dale Pass,4917780000000000
+61,Curtis Dixon,Male,70,56,59800,United States,Corpus Christi,TX,64 Montana Avenue,4844810000000000
+62,Steven Simmons,Male,19,55,59800,United States,El Paso,TX,6761 Dryden Point,4026550000000000
+63,Debra Perez,Female,67,52,61100,United States,Brooklyn,NY,1 Mayfield Alley,4913080000000000
+64,Susan Lewis MD,Female,54,59,61100,United States,Albany,NY,337 Hallows Court,4917180000000000
+65,James Johnson,Male,63,51,62400,United States,Minneapolis,MN,2365 Troy Plaza,4917240000000000
+66,Mathew Shields,Male,18,59,62400,United States,Stockton,CA,5630 Rutledge Park,4913190000000000
+67,Angela Moore,Female,43,50,62400,United States,Galveston,TX,39 Drewry Drive,4508770000000000
+68,Cathy Raymond PhD,Female,68,48,62400,United States,Atlanta,GA,61417 Mcguire Way,4917960000000000
+69,Daniel Hawkins,Male,19,59,62400,United States,Tucson,AZ,47951 Novick Alley,4175000000000000
+70,Ashley Lindsey,Female,32,47,62400,United States,Athens,GA,51314 Loomis Circle,4026870000000000
+71,Jack Simpson MD,Male,70,55,63700,United States,Rockford,IL,29 Brown Crossing,4844600000000000
+72,Sarah Johnson,Female,47,42,63700,United States,Palmdale,CA,4 Twin Pines Alley,4508300000000000
+73,Tammy Bailey,Female,60,49,65000,United States,Detroit,MI,18 Springview Avenue,4026180000000000
+74,Amber Cook,Female,60,56,65000,United States,High Point,NC,9168 Ramsey Drive,4844520000000000
+75,Kenneth Zhang,Male,59,47,70200,United States,Waltham,MA,206 International Road,4175000000000000
+76,James Smith,Male,26,54,70200,United States,Columbus,GA,314 Service Way,4175010000000000
+77,Tara Davis,Female,45,53,70200,United States,Phoenix,AZ,9786 Hoepker Lane,4508560000000000
+78,Brian Caldwell,Male,40,48,70200,United States,Houston,TX,28298 Upham Junction,4175000000000000
+79,Shannon Norman,Female,23,52,70200,United States,Seattle,WA,320 Kim Point,4175010000000000
+80,Michelle Lewis,Female,49,42,70200,United States,Rochester,NY,863 Hansons Pass,4508880000000000
+81,Daniel Rice,Male,57,51,70200,United States,Muskegon,MI,91716 Erie Plaza,4508320000000000
+82,Christopher Clay,Male,38,55,70200,United States,Shawnee Mission,KS,260 Linden Plaza,4508150000000000
+83,Eric Montoya,Male,67,41,70200,United States,Santa Barbara,CA,00 Summer Ridge Street,4913240000000000
+84,Melinda Lee,Female,46,44,70200,United States,Santa Barbara,CA,87812 Karstens Court,4917430000000000
+85,Amanda Turner,Female,21,57,70200,United States,Virginia Beach,VA,155 Anzinger Terrace,4026350000000000
+86,Daniel Fisher,Male,48,46,70200,United States,Salt Lake City,UT,630 Fieldstone Lane,4175010000000000
+87,Diana Mathis,Female,55,58,74100,United States,Wilmington,NC,5940 Pine View Street,4844040000000000
+88,Brenda Young,Female,22,55,74100,United States,Gainesville,GA,289 Northwestern Place,4508910000000000
+89,Kelly Garcia,Female,34,60,75400,United States,Beaverton,OR,6457 Gateway Circle,4026420000000000
+90,Melissa Silva,Female,50,46,75400,United States,Pensacola,FL,252 Butterfield Hill,4405670000000000
+91,Brenda Hendricks,Female,68,55,76700,United States,Buffalo,NY,81 Dunning Point,4917010000000000
+92,Brian Sanchez,Male,18,41,76700,United States,Spokane,WA,513 Fair Oaks Trail,4917010000000000
+93,Gregory Kennedy,Male,48,49,78000,United States,Oklahoma City,OK,7018 Lindbergh Point,4844860000000000
+94,Victoria Doyle,Female,40,40,78000,United States,Miami,FL,801 Milwaukee Point,4917030000000000
+95,Brittney Hernandez,Female,32,42,78000,United States,Boston,MA,6945 Muir Pass,4917950000000000
+96,Michael Scott,Male,24,52,78000,United States,Honolulu,HI,300 Fairview Pass,4508500000000000
+97,Tammy Wood,Female,47,47,78000,United States,Norfolk,VA,88 Monterey Alley,4508990000000000
+98,Rebekah Kelly,Female,27,50,78000,United States,Fort Lauderdale,FL,1 Buena Vista Lane,4175010000000000
+99,James Camacho,Male,48,42,79300,United States,Evansville,IN,923 Eastwood Circle,4026740000000000
+100,Justin Williams,Male,20,49,79300,United States,Richmond,VA,23342 Wayridge Court,4175010000000000
+101,Taylor Walker MD,Female,23,41,80600,United States,Kansas City,MO,342 Jackson Avenue,4844180000000000
+102,Shannon Vasquez,Female,49,48,80600,United States,Knoxville,TN,592 Rutledge Circle,4917650000000000
+103,Antonio Washington,Male,67,59,80600,United States,Saint Cloud,MN,3 Norway Maple Street,4917840000000000
+104,Kyle King,Male,26,55,80600,United States,Olympia,WA,81 Bonner Parkway,4405310000000000
+105,Terry Gomez,Male,49,56,80600,United States,Shawnee Mission,KS,98 Banding Plaza,4175010000000000
+106,Jeanette Dennis,Female,21,42,80600,United States,Houston,TX,744 Division Road,4508390000000000
+107,Laura Horton,Female,66,50,81900,United States,Albuquerque,NM,64 Glacier Hill Plaza,4917480000000000
+108,Justin Diaz,Male,54,46,81900,United States,Birmingham,AL,44 Blaine Lane,4405480000000000
+109,Colin Thompson,Male,68,43,81900,United States,Wichita,KS,98459 Warner Park,4026660000000000
+110,Brandon Campbell,Male,66,48,81900,United States,El Paso,TX,344 Little Fleur Alley,4508500000000000
+111,Brett Mcdaniel,Male,65,52,81900,United States,Irvine,CA,81532 Melvin Junction,4917530000000000
+112,Janet Weiss,Female,19,54,81900,United States,Saint Joseph,MO,76 Haas Center,4405810000000000
+113,Sarah Mcgrath,Female,38,42,83200,United States,Savannah,GA,0 Di Loreto Street,4405510000000000
+114,James Perkins,Male,19,46,83200,United States,Charleston,WV,2 Eagle Crest Court,4913410000000000
+115,Kayla Riley,Female,18,48,84500,United States,Long Beach,CA,9 Crescent Oaks Place,4913150000000000
+116,Dr. Taylor Marsh,Female,19,50,84500,United States,Richmond,VA,33 2nd Hill,4844400000000000
+117,Ashley Trevino,Female,63,43,84500,United States,Orlando,FL,82221 Sheridan Point,4175000000000000
+118,Kimberly Simmons,Female,49,59,84500,United States,Louisville,KY,1850 Milwaukee Circle,4508380000000000
+119,Jennifer Ford,Female,51,43,87100,United States,Cape Coral,FL,7655 Schlimgen Point,4175010000000000
+120,Elizabeth Costa,Female,50,57,87100,United States,Houston,TX,36 Macpherson Street,4844560000000000
+121,Justin Rice,Male,27,56,87100,United States,Omaha,NE,8233 Sachtjen Street,4508990000000000
+122,Valerie Martin,Female,38,40,87100,United States,Dayton,OH,92 Maryland Point,4026760000000000
+123,Tara Rosales,Female,40,58,89700,United States,Fresno,CA,0 Sage Junction,4917310000000000
+124,Jesse Newman,Male,39,91,89700,United States,Anaheim,CA,31266 Leroy Park,4508730000000000
+125,Shannon Floyd,Female,23,29,91000,United States,Los Angeles,CA,9 Spenser Hill,4913060000000000
+126,Kristen Juarez,Female,31,77,91000,United States,Las Vegas,NV,710 Kropf Lane,4026770000000000
+127,Keith Giles,Male,43,35,92300,United States,Hollywood,FL,8 Hintze Road,4508160000000000
+128,Mr. Steven Hill,Male,40,95,92300,United States,Washington,DC,915 Sachs Junction,4405260000000000
+129,Allen Kirk,Male,59,11,92300,United States,Anaheim,CA,70046 Troy Circle,4026890000000000
+130,Tyler Cowan,Male,38,75,92300,United States,Hartford,CT,1 Mockingbird Place,4917250000000000
+131,Benjamin Berger,Male,47,9,92300,United States,Spokane,WA,9249 Anderson Court,4405010000000000
+132,Nicholas Peters,Male,39,75,92300,United States,Santa Ana,CA,9026 Gerald Pass,4913450000000000
+133,Jennifer Price,Female,25,34,93600,United States,Sacramento,CA,5887 Vernon Drive,4913920000000000
+134,Patricia Mcdaniel,Female,31,71,93600,United States,Anchorage,AK,48 Meadow Ridge Crossing,4405430000000000
+135,George Mitchell,Male,20,5,94900,United States,Winston Salem,NC,61 Redwing Center,4175010000000000
+136,Barbara Moreno MD,Female,29,88,94900,United States,Midland,TX,5 Oneill Center,4508130000000000
+137,Jessica Lopez,Female,44,7,94900,United States,Springfield,IL,8335 Jana Park,4913100000000000
+138,Stephen Brown,Male,32,73,94900,United States,Austin,TX,933 Holy Cross Alley,4844560000000000
+139,Robert King,Male,19,10,96200,United States,Tacoma,WA,83 Stephen Street,4508450000000000
+140,Emily Benson,Female,35,72,96200,United States,Richmond,VA,847 Kedzie Pass,4508560000000000
+141,Kristin West,Female,57,5,97500,United States,Virginia Beach,VA,220 Buena Vista Terrace,4026150000000000
+142,Robert Mcdaniel,Male,32,93,97500,United States,Montgomery,AL,7 Express Lane,4844400000000000
+143,Tammy Delgado,Female,28,40,98800,United States,Decatur,GA,44360 Merchant Lane,4844130000000000
+144,Joanna Smith,Female,32,87,98800,United States,Brooklyn,NY,85 Clarendon Way,4917960000000000
+145,James Thompson,Male,25,12,100100,United States,Grand Rapids,MI,689 Manley Court,4913920000000000
+146,Stephen Jackson,Male,28,97,100100,United States,Clearwater,FL,6 Annamark Center,4508080000000000
+147,William Galloway,Male,48,36,100100,United States,Fresno,CA,90717 Steensland Circle,4508450000000000
+148,Jane Smith,Female,32,74,100100,United States,Minneapolis,MN,241 Anzinger Point,4405940000000000
+149,Joan Wolfe,Female,34,22,101400,United States,Birmingham,AL,2 Gulseth Lane,4508660000000000
+150,Anthony Rosales,Male,34,90,101400,United States,Atlanta,GA,9402 Haas Pass,4844410000000000
+151,James Fox,Male,43,17,101400,United States,Whittier,CA,57912 Bashford Plaza,4913720000000000
+152,Brian Li,Male,39,88,101400,United States,San Jose,CA,67 Autumn Leaf Center,4508400000000000
+153,Cynthia Miller,Female,44,20,101400,United States,Portland,OR,4439 Maywood Road,4913310000000000
+154,Angela Smith,Female,38,76,101400,United States,Washington,DC,03519 Upham Lane,4026050000000000
+155,Tracy Roberts,Female,47,16,101400,United States,Fayetteville,NC,1177 Superior Plaza,4175000000000000
+156,Sara Gordon,Female,27,89,101400,United States,Albany,NY,9684 Briar Crest Crossing,4917310000000000
+157,Jose Garcia,Male,37,1,101400,United States,Rochester,NY,772 Autumn Leaf Junction,4175010000000000
+158,Erika Reid,Female,30,78,101400,United States,Naples,FL,497 Crescent Oaks Alley,4914000000000000
+159,Christopher Hanson,Male,34,1,101400,United States,Phoenix,AZ,11 Miller Lane,4913000000000000
+160,Krystal Patel,Female,30,73,101400,United States,Virginia Beach,VA,170 American Court,4913700000000000
+161,Mariah Evans,Female,56,35,102700,United States,San Diego,CA,29 Corben Hill,4175010000000000
+162,Kelly Townsend,Female,29,83,102700,United States,Columbus,GA,947 Warner Terrace,4405400000000000
+163,Wayne Hopkins,Male,19,5,105300,United States,Orange,CA,6843 Continental Center,4026450000000000
+164,Hannah Lopez,Female,31,93,105300,United States,Hattiesburg,MS,8171 Pepper Wood Way,4917680000000000
+165,Thomas White,Male,50,26,110500,United States,Orange,CA,68 Jana Pass,4917800000000000
+166,Victoria Hogan,Female,36,75,110500,United States,Alexandria,VA,18414 Toban Center,4917490000000000
+167,Stephen Lopez,Male,42,20,111800,United States,Springfield,OH,559 Saint Paul Lane,4913630000000000
+168,Michelle Hamilton,Female,33,95,111800,United States,Rochester,NY,21 Hazelcrest Hill,4844680000000000
+169,Kendra Johnson,Female,36,27,113100,United States,Paterson,NJ,63125 Kinsman Crossing,4026480000000000
+170,Joseph Gonzalez,Male,32,63,113100,United States,New Orleans,LA,067 Sullivan Hill,4917630000000000
+171,Mr. Eric Schneider,Male,40,13,113100,United States,Shreveport,LA,440 Holmberg Point,4844830000000000
+172,Peter Watts Jr.,Male,28,75,113100,United States,College Station,TX,18481 East Plaza,4913960000000000
+173,Douglas Pena,Male,36,10,113100,United States,Indianapolis,IN,6826 Rigney Plaza,4175000000000000
+174,Robert Robinson,Male,36,92,113100,United States,Harrisburg,PA,01 Boyd Hill,4508110000000000
+175,Alicia Price,Female,52,13,114400,United States,Greensboro,NC,7970 Oak Alley,4175000000000000
+176,Valerie Lamb,Female,30,86,114400,United States,Syracuse,NY,3 Mockingbird Park,4844800000000000
+177,Jeremy Maldonado,Male,58,15,114400,United States,Boulder,CO,0350 Lien Drive,4844580000000000
+178,Steven Shields,Male,27,69,114400,United States,Richmond,VA,53386 Dennis Park,4508130000000000
+179,Brian Benton,Male,59,14,120900,United States,Columbia,SC,61 Cody Point,4844270000000000
+180,George Carroll,Male,35,90,120900,United States,Hampton,VA,05547 Red Cloud Court,4508180000000000
+181,Rachel Taylor,Female,37,32,126100,United States,Washington,DC,8 Coleman Center,4913560000000000
+182,Yvonne Beasley,Female,32,86,126100,United States,Pueblo,CO,749 Meadow Vale Trail,4844480000000000
+183,Robert Smith,Male,46,15,127400,United States,San Luis Obispo,CA,05 Sherman Terrace,4405360000000000
+184,Jessica Walker,Female,29,88,127400,United States,Battle Creek,MI,870 Upham Court,4844720000000000
+185,Lori Singh,Female,41,39,128700,United States,Green Bay,WI,24954 Colorado Center,4405730000000000
+186,Brian Morrison,Male,30,97,128700,United States,Lakewood,WA,05 Scofield Street,4405710000000000
+187,Robin Lee,Female,54,24,131300,United States,Roanoke,VA,3 Dwight Street,4913730000000000
+188,Martin Baker,Male,28,68,131300,United States,Los Angeles,CA,2159 Columbus Hill,4026140000000000
+189,Melissa Montgomery,Female,41,17,133900,United States,Chicago,IL,12769 Waywood Way,4508640000000000
+190,Donna Garcia,Female,36,85,133900,United States,Huntington,WV,362 Rockefeller Drive,4508720000000000
+191,Victoria Thompson,Female,34,23,133900,United States,Jacksonville,FL,6 Blackbird Alley,4913960000000000
+192,Brenda Alvarado,Female,32,69,133900,United States,Jacksonville,FL,85951 Crownhardt Way,4917960000000000
+193,Ryan Roberson,Male,33,8,146900,United States,Durham,NC,12266 East Alley,4913710000000000
+194,Elizabeth Humphrey,Female,38,91,146900,United States,Los Angeles,CA,1075 Dwight Drive,4175010000000000
+195,Emma Martinez,Female,47,16,156000,United States,Atlanta,GA,5 Claremont Avenue,4508240000000000
+196,Julie Jimenez,Female,35,79,156000,United States,Fort Lauderdale,FL,57 Oriole Avenue,4175000000000000
+197,Mrs. Cheryl Lewis,Female,45,28,163800,United States,Jamaica,NY,2104 Surrey Drive,4913020000000000
+198,Robert Duncan,Male,32,74,163800,United States,San Rafael,CA,94908 Shelley Park,4026640000000000
+199,Robert Lee,Male,32,18,178100,United States,Evansville,IN,2 Summer Ridge Road,4026180000000000
+200,Larry Diaz MD,Male,30,83,178100,United States,Saint Paul,MN,8 Sundown Circle,4844540000000000
